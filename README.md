@@ -1,6 +1,8 @@
 <!-- https://emojipedia.org/  PLATAFORMA DE EMOJIS-->
 <!-- https://github.com/Ileriayo/markdown-badges  BIBLIOTECA DE BADGES-->
 <!-- https://github.com/anuraghazra/github-readme-stats  BIBLIOTECA DE gráficos-->
+<!-- https://www.markdownguide.org/cheat-sheet/  CONSTRUÇÃO MARKEDOWN-->
+
 
 ### Ola! Me chamo Gustavo Karnopp 🖐️
 #### Abaixo um pouco sobre softawares e tecnologias que utilizo para o desenvolvimento do dia a dia, projetos pessoais e para clientes. Se gostou deixei seu 🌟Stars🌟!
@@ -11,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-karnopp-039b8916b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghenriquekarnopp/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.instagram.com/ghenriquekarnopp/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/2HA5UK32WDSPC1) 
 
 ---
 
@@ -29,7 +31,7 @@
 
 ---
 
-#### **VERSIONAMENTO**
+#### 🚀**VERSIONAMENTO**
 <div>
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -37,7 +39,9 @@
   <img align="center" alt="bitbuket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </div><br/>
 
-#### **FRAMEWORKS/ OUTRAS TECHS**
+---
+
+#### 💻**FRAMEWORKS/ TOOLS**
 <div>
   <img align="center" alt="vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
   <img align="center" alt="yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
@@ -50,7 +54,9 @@
   <img align="center" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div><br/>
 
-#### **SOFTWARES**
+---
+
+#### ⚙️**SOFTWARES**
   <div>
     <img align="center" alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
